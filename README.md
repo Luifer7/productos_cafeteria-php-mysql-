@@ -18,6 +18,8 @@ $bd="konecta";
 $usuario="root";
 $password="";
 
+archivo: tienda.sql (database)
+
 
 iniciando el sistema:
 

@@ -1,6 +1,6 @@
 # productos_cafeteria-php-mysql-
 
-Sistema de listado de pruductos para cafeteria Konecta (PHP/MYSQL)
+Sistema de listado de productos para cafeteria Konecta (PHP/MYSQL)
 BY: Luis Fernando Cordero Torres.
 
 
